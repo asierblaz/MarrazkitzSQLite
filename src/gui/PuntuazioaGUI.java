@@ -44,6 +44,7 @@ public class PuntuazioaGUI extends javax.swing.JFrame {
         modelo.addColumn("Asmatutakoak");
         
         this.tabla.setModel(modelo);
+        tabla.setEnabled(false);
         datuakKargatu();
 
     }
@@ -51,7 +52,7 @@ public class PuntuazioaGUI extends javax.swing.JFrame {
     public void borratu(){
       try {
 
-            SQLiteKudeatu.terminoaEzabatu((tabla.getValueAt(tabla.getSelectedRow(), 1).toString().toLowerCase()));
+            SQLiteKudeatu.jokalariaEzabatu((tabla.getValueAt(tabla.getSelectedRow(), 1).toString().toLowerCase()));
 
             JOptionPane.showMessageDialog(null, "Puntuaziotik ezabatu da", "Borratu", JOptionPane.INFORMATION_MESSAGE);
             datuakKargatu();
@@ -175,7 +176,7 @@ public class PuntuazioaGUI extends javax.swing.JFrame {
     }//GEN-LAST:event_borrarButtonActionPerformed
 
     private void adminButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_adminButtonActionPerformed
-        
+        tabla.setEnabled(true);
         borrarButton.setVisible(true);
         adminButton.setVisible(false);
     }//GEN-LAST:event_adminButtonActionPerformed

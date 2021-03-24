@@ -96,7 +96,7 @@ public class SQLiteKudeatu {
     }
     
     
-        public static void terminoaEzabatu(String nombre) {
+        public static void jokalariaEzabatu(String nombre) {
         String sql = "DELETE FROM Jokalariak WHERE username = ?";
 
         try (Connection conn = connect();

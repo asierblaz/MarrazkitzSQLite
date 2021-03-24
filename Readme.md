@@ -28,6 +28,11 @@ DENBORA <10 --> -20
 Jokura jolastu eta puntuazioa gorde duten jokalari guztien datuak agertuko dira puntuazioaren arabera ordenatuta ( Izena, puntuazioa , Asmatutakoak) 
 
 ![Alt text](https://media.discordapp.net/attachments/805837040566534207/814031004267315200/unknown.png?width=815&height=610 "Optional title")
+### Funtzionalitatearen eguneraketa.
+Kasu honetan puntuazioa datu base batean gordeko da, eta administrazio funtzioak egongo dira, bertan datu baseko jokalariak borratu ahal izango dira.
+![Alt text](https://media.discordapp.net/attachments/805837040566534207/824193959219822632/unknown.png?width=904&height=610 "Optional title")
+![Alt text](https://media.discordapp.net/attachments/805837040566534207/824194320268525598/unknown.png?width=873&height=610 "Optional title")
+![Alt text](https://media.discordapp.net/attachments/805837040566534207/824194468349214790/unknown.png "Optional title")
 
 
 # DIAGRAMAK
