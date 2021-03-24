@@ -38,7 +38,7 @@ Kasu honetan puntuazioa datu base batean gordeko da, eta administrazio funtzioak
 # DIAGRAMAK
 ## PROIEKTUAREN KLASE DIAGRAMA
 
-![Alt text](https://media.discordapp.net/attachments/805837040566534207/814031989669494794/Marrazkitz.png?width=1046&height=610 "Optional title")
+![Alt text](https://media.discordapp.net/attachments/805837040566534207/824195518712119327/Marrazkitz.png?width=1101&height=610 "Optional title")
 
 ## ASMATU FUNTZIONALITATEAREN AKTIBITATE DIAGRAMA
 
@@ -47,3 +47,5 @@ Kasu honetan puntuazioa datu base batean gordeko da, eta administrazio funtzioak
 
 Funtzionalitateak ikusteko:
 https://youtu.be/kxi3Eee6dx4
+Puntuazioaren Funtzionalitatea
+
