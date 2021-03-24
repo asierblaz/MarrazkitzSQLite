@@ -47,6 +47,8 @@ Kasu honetan puntuazioa datu base batean gordeko da, eta administrazio funtzioak
 
 Funtzionalitateak ikusteko:
 https://youtu.be/kxi3Eee6dx4
+
+
 Puntuazioaren Funtzionalitatea
 https://youtu.be/fKUFaWASbrE
 
